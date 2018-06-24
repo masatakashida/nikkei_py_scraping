@@ -1,1 +1,3 @@
-# 日本経済新聞ページタイトルを取得
+# coding: UTF-8
+import urllib2
+from bs4 import BeautifulSoup
